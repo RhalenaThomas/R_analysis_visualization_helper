@@ -10,7 +10,7 @@ R helper functions and workbooks for visualizations and statistical analysis for
 - Most functions are flexible for different datatypes
 - Pull/download the repository and you can call the functions using "source" or copy the functions directly into your code.  
 
-# Type of functions
+# Types of functions
 
 1. Differential Expression Analysis outputs
 a) Volcano plots
