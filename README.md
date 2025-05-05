@@ -12,8 +12,8 @@ R helper functions and workbooks for visualizations and statistical analysis for
 
 # Types of functions
 
-1. Differential Expression Analysis outputs
-a) Volcano plots
-b) Filtering for significance and getting Gene/Protein counts
-c) Comparing contrasts and gene/protein overlap: bar charts, VENN diagrams, heatmaps
-d) Visualization of genes/proteins of interest: heatmaps of expression grouping different variables, denograms, controling colours and axis order or hiearchical clustering.
+1. Differential Expression Analysis outputs  
+a) Filtering for significance and getting Gene/Protein counts  
+b) Comparing contrasts and gene/protein overlap: bar charts, VENN diagrams, heatmaps  
+c) Visualization of genes/proteins of interest: heatmaps of expression grouping different variables, colour and axis order control.  
+d) Denogram heatmaps with hiearchical clustering.  
